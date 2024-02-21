@@ -62,6 +62,8 @@ charge_cycle_step = 32 # 点击稳定状态计数器，点击稳定充电环。
 ```
 ### 4、根目录下运行命令： python main.py
 
-此项目以https://gitcode.net/EricLee/dpcas为基础
+
+
+[此项目以https://gitcode.net/EricLee/dpcas 为基础]
 
   
